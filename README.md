@@ -58,7 +58,7 @@ me.say_hi()
 <br />
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DYOUR_GITHUB_USERNAME%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="streak stats" />
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Ddremurphy%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="streak stats" />
 </div>
 
 <br />
