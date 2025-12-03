@@ -25,7 +25,7 @@ jason@lim ---------------------------------------------------
 
   Languages.Programming: Python, SQL, R
   Languages.Real:        English, Chinese, Malay
-  Interests.Data:        ML, DL, AI, 
+  Interests.Data:        Machine Learning, Deep Learning, AI 
 
   Tools.IDE:             VS Code, Jupyter, RStudio
   Tools.DevOps:          Git, GitHub
@@ -36,13 +36,6 @@ jason@lim ---------------------------------------------------
 - Contact ---------------------------------------------------
   Email:                 jasonlim1@live.com
   LinkedIn:              linkedin.com/in/chee-soon-lim/
-
-- GitHub.Stats -----------------------------------------------
-  Username:               dremurphy
-  Public Repos:           updating...
-  Contributions:          updating...
-  Stars Received:         updating...
-  Followers:              updating...
 
 - Current.Status -------------------------------------------
   Focus:                 Building models & modding consoles
