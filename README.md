@@ -4,7 +4,7 @@
 <h3>Data Scientist | Predictive Analytics | Modder</h3>
 
 <p>
-<a href="https://linkedin.com/in/jason-chee-soon-lim">
+<a href="https://www.linkedin.com/in/chee-soon-lim/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:jasonlim1@live.com">
