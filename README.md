@@ -31,8 +31,7 @@ jason@lim ---------------------------------------------------
   Tools.DevOps:          Git, GitHub
   Tools.Analytics:       Power BI, Tableau, Advance Excel
 
-  Hobbies.Software:      Console & iOS modding, game tinkering
-  Hobbies.Hardware:      Handhelds, controllers, gadgets
+  Hobbies.Software:      steamOS modding, iOS jailbreaking, data science projects, computer modifications
 
 - Contact ---------------------------------------------------
   Email:                 jasonlim1@live.com
