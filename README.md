@@ -16,63 +16,28 @@
 
 </div>
 
-👨‍💻 About Me
+```text
+jason@github ------------------------------------------------
+  OS:                    macOS, SteamOS, iOS
+  Role:                  Data Scientist (Predictive Analytics)
+  Uptime:                Recently graduated · always tinkering
+  Host:                  Perth, Western Australia
 
-<ul>
-<li><b>Name:</b> Jason Lim</li>
-<li><b>Role:</b> Data Scientist & Predictive Analytics Master</li>
-<li><b>Languages Spoken:</b> English 🇺🇸, Chinese 🇨🇳, Malay 🇲🇾</li>
-<li><b>Main Stack:</b> Python, SQL, R</li>
-<li><b>Current Status:</b> Building models & Modding consoles</li>
-</ul>
+  Languages.Programming: Python, SQL, R
+  Languages.Real:        English, Chinese, Malay
+  Interests.Data:        ML, XAI, time series, health analytics
 
----
+  Tools.IDE:             VS Code, Jupyter, RStudio
+  Tools.DevOps:          Git, GitHub
+  Tools.Analytics:       Power BI, Tableau (beginner), Excel
 
-### 🛠️ Tech Stack
+  Hobbies.Software:      Console & iOS modding, game tinkering
+  Hobbies.Hardware:      Handhelds, controllers, gadgets
 
-<p align="left">
+- Contact ---------------------------------------------------
+  Email:                 jasonlim1@live.com
+  LinkedIn:              linkedin.com/in/chee-soon-lim/
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-
-<img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" />
-<img src="https://img.shields.io/badge/SteamOS-171A21?style=flat-square&logo=steam&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-<img src="https://img.shields.io/badge/iOS_Modding-333333?style=flat-square&logo=cydia&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-
-</p>
-
----
-
-### 📊 GitHub Stats (for `dremurphy`)
-
-<div align="center">
-
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=dremurphy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-  height="160"
-/>
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dremurphy&layout=compact&theme=tokyonight&hide_border=true"
-  height="160"
-/>
-
-</div>
-
-<br />
-
-<div align="center">
-
-<img 
-  src="https://github-readme-streak-stats.herokuapp.com/?user=dremurphy&theme=tokyonight&hide_border=true"
-/>
-
-</div>
-
-<br />
-
-<div align="center">
-<sub><i>"Data is the new oil, but modding is the refinery."</i></sub>
-</div>
+- Current.Status -------------------------------------------
+  Focus:                 Building models & modding consoles
+  Looking.For:           Data / Analytics roles & cool collabs
