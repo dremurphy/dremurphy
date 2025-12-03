@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>Jason (Chee Soon) Lim</h1>
-<h3>Data Scientist | Predictive Analytics | Modder</h3>
+<h3>Data Scientist | Data Analyst | Modder</h3>
 
 <p>
 <a href="https://www.linkedin.com/in/chee-soon-lim/">
@@ -17,19 +17,19 @@
 </div>
 
 ```text
-jason@github ------------------------------------------------
-  OS:                    macOS, SteamOS, iOS
+jason@lim ---------------------------------------------------
+  OS:                    macOS, SteamOS, iOS, Windows 11
   Role:                  Data Scientist (Predictive Analytics)
-  Uptime:                Recently graduated · always tinkering
+  Education:             Master of Predictive Analytics, Bachelors of Information Systems
   Host:                  Perth, Western Australia
 
   Languages.Programming: Python, SQL, R
   Languages.Real:        English, Chinese, Malay
-  Interests.Data:        ML, XAI, time series, health analytics
+  Interests.Data:        ML, DL, AI, 
 
   Tools.IDE:             VS Code, Jupyter, RStudio
   Tools.DevOps:          Git, GitHub
-  Tools.Analytics:       Power BI, Tableau (beginner), Excel
+  Tools.Analytics:       Power BI, Tableau, Advance Excel
 
   Hobbies.Software:      Console & iOS modding, game tinkering
   Hobbies.Hardware:      Handhelds, controllers, gadgets
@@ -38,17 +38,13 @@ jason@github ------------------------------------------------
   Email:                 jasonlim1@live.com
   LinkedIn:              linkedin.com/in/chee-soon-lim/
 
+- GitHub.Stats -----------------------------------------------
+  Username:               dremurphy
+  Public Repos:           updating...
+  Contributions:          updating...
+  Stars Received:         updating...
+  Followers:              updating...
+
 - Current.Status -------------------------------------------
   Focus:                 Building models & modding consoles
-  Looking.For:           Data / Analytics roles & cool collabs
-
-<div align="center">
-</div>
-<br />
-<div align="center">
-</div>
-<br />
-<div align="center">
-<sub><i>"Data is the new oil, but modding is the refinery."</i></sub>
-</div>
-```
+  Looking.For:           Data / Science & Analytics roles & cool collabs
