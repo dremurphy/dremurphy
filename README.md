@@ -1,43 +1,53 @@
-<div align="center">
-
-<h1>Jason (Chee Soon) Lim</h1>
-<h3>Data Scientist | Predictive Analytics | Modder</h3>
-
-<p>
-<a href="https://www.linkedin.com/in/chee-soon-lim/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:jasonlim1@live.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-</a>
-</p>
-
-<br />
-
-</div>
-
 ```text
 jason@github ------------------------------------------------
-  OS:                    macOS, SteamOS, iOS
-  Role:                  Data Scientist (Predictive Analytics)
-  Uptime:                Recently graduated · always tinkering
-  Host:                  Perth, Western Australia
+  Name:                   Jason (Chee Soon) Lim
+  Education:              Master of Predictive Analytics (Data Science)
 
-  Languages.Programming: Python, SQL, R
-  Languages.Real:        English, Chinese, Malay
-  Interests.Data:        ML, XAI, time series, health analytics
+  OS:                     macOS, SteamOS
+  Uptime:                 24 years, 6 months, 6 days    # Born: 28 May 2000
+  Host:                   Perth, Western Australia
 
-  Tools.IDE:             VS Code, Jupyter, RStudio
-  Tools.DevOps:          Git, GitHub
-  Tools.Analytics:       Power BI, Tableau (beginner), Excel
+  Languages.Programming:  Python, SQL, R
+  Languages.Real:         English, Chinese, Malay
+  Tools.IDE:              VS Code (latest)
+  Tools.Analytics:        Jupyter, RStudio, Power BI
+  Tools.DevOps:           Git, GitHub
 
-  Hobbies.Software:      Console & iOS modding, game tinkering
-  Hobbies.Hardware:      Handhelds, controllers, gadgets
+  Hobbies.Software:       SteamOS modding, iOS jailbreaking
+  Hobbies.Data:           ML projects, analytics, modelling
+  Hobbies.Hardware:       PC modifications, handheld tweaking
 
 - Contact ---------------------------------------------------
-  Email:                 jasonlim1@live.com
-  LinkedIn:              linkedin.com/in/chee-soon-lim/
+  Email:                  jasonlim1@live.com
+  LinkedIn:               linkedin.com/in/chee-soon-lim/
 
-- Current.Status -------------------------------------------
-  Focus:                 Building models & modding consoles
-  Looking.For:           Data / Analytics roles & cool collabs
+- GitHub Stats ---------------------------------------------
+  Repos:                  {{ REPOS }}
+  Commits:                {{ COMMITS }}
+  Stars:                  {{ STARS }}
+  Followers:              {{ FOLLOWERS }}
+  Lines of Code:          {{ LOC }}
+
+-------------------------------------------------------------
+
+<div align="center">
+
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=dremurphy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+  height="160"
+  alt="GitHub Stats"
+/>
+
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dremurphy&layout=compact&theme=tokyonight&hide_border=true"
+  height="160"
+  alt="Top Languages"
+/>
+
+<img 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=dremurphy&theme=tokyonight&hide_border=true"
+  height="180"
+  alt="GitHub Streak"
+/>
+
+</div>
