@@ -18,19 +18,13 @@
 
 👨‍💻 About Me
 
-class DataScientist:
-    def __init__(self):
-        self.name = "Jason Lim"
-        self.role = "Data Scientist"
-        self.language_spoken = ["en_US", "zh_CN", "ms_MY"]
-        self.code = ["Python", "SQL", "R"]
-    
-    def say_hi(self):
-        print("Thanks for dropping by, hope you find something interesting!")
-
-me = DataScientist()
-me.say_hi()
-
+<ul>
+<li><b>Name:</b> Jason Lim</li>
+<li><b>Role:</b> Data Scientist & Predictive Analytics Master</li>
+<li><b>Languages Spoken:</b> English 🇺🇸, Chinese 🇨🇳, Malay 🇲🇾</li>
+<li><b>Main Stack:</b> Python, SQL, R</li>
+<li><b>Current Status:</b> Building models & Modding consoles</li>
+</ul>
 
 🛠️ Tech Stack
 
@@ -50,9 +44,9 @@ me.say_hi()
 📊 GitHub Stats
 
 <div align="center">
-<!-- Replaced "radical" theme with "tokyonight" for a cleaner, darker aesthetic -->
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DYOUR_GITHUB_USERNAME%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26count_private%3Dtrue" height="160" alt="stats graph" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DYOUR_GITHUB_USERNAME%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue" height="160" alt="languages graph" />
+<!-- Stats for dremurphy -->
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Ddremurphy%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26count_private%3Dtrue" height="160" alt="stats graph" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Ddremurphy%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue" height="160" alt="languages graph" />
 </div>
 
 <br />
